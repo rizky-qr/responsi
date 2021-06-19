@@ -1,2 +1,2 @@
-# sekolah
-website sekolah
+# Responsi web
+Responsi web
